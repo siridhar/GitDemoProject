@@ -9,7 +9,7 @@ public class GitDemoProject {
 			
 System.out.println("I'm working in MICROGRID");
 		else
-			System.out.println("I'm not working");	
+			System.out.println("I'm not working as lead");	
 
 	}
 
